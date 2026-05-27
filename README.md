@@ -88,9 +88,20 @@ https://github.com/shyamala1113/TravelAgent
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamala1113\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamala1113\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyamala1113&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyamala1113&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shyamala1113&theme=github-dark-blue" />
+
+</div>
+
 
 ---
 
