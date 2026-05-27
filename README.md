@@ -1,33 +1,37 @@
-# Gaddeepogu Shyamala
+# Hi, I'm Gaddeepogu Shyamala 👋
 
 ### LLM Engineer • AI/ML Builder • Full Stack Developer
 
----
-
-## 👩‍💻 About Me
-
-* 🎓 Computer Science student passionate about AI, Machine Learning, and Intelligent Systems
-* 🤖 Exploring LLMs, RAG Pipelines, AI Agents, and Intelligent Workflows
-* 🌐 Interested in Full Stack Development and real-world applications
-* ☕ Learning backend systems and scalable architectures
-* 💡 Strong believer in learning by building
-* 🚀 Passionate about solving practical problems through technology
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&duration=3000\&pause=1000\&color=A0C4FF\&center=true\&width=700\&lines=Building+AI+Systems+🤖;Exploring+LLMs+%7C+RAG+Pipelines+%7C+Agents;Full+Stack+Development+Journey;Learning+by+Building+Projects+🚀)
 
 ---
 
 ## 🔗 Connect With Me
 
-* GitHub: https://github.com/shyamala1113
-* LinkedIn: https://linkedin.com/in/gaddeepogu-shyamala
-* Email: [shyamalagaddeepogu@gmail.com](mailto:shyamalagaddeepogu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=a0c4ff\&labelColor=0d1117)](https://github.com/shyamala1113)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=a0c4ff\&labelColor=0d1117)](https://linkedin.com/in/gaddeepogu-shyamala)
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=a0c4ff\&labelColor=0d1117)](mailto:shyamalagaddeepogu@gmail.com)
+
+---
+
+## 👩‍💻 About Me
+
+* 🎓 Computer Science student passionate about **AI, Machine Learning, and Intelligent Systems**
+* 🤖 Exploring **LLMs, RAG Pipelines, AI Agents, and Intelligent Workflows**
+* 🌐 Interested in **Full Stack Development**
+* ☕ Learning **Backend Systems and Scalable Architectures**
+* 💡 Strong believer in **learning by building**
+* 🚀 Building projects to solve practical problems
 
 ---
 
 ## 🏆 Achievement
 
-**Anvil Hackathon — Grand Finale Shortlisted**
-📍 Scaler School of Technology
-📅 May 2026
+🏅 **Anvil Hackathon — Grand Finale Shortlisted**
+🏫 **Scaler School of Technology**
+📅 **May 2026**
 
 ---
 
@@ -37,55 +41,63 @@
 
 AI-powered project focused on intelligent workflows and problem-solving.
 
-Repository:
+**Repository**
 https://github.com/shyamala1113/my-project
 
-Demo:
+**Demo**
 https://huggingface.co/spaces/shyamalagaddeepogu/project1
 
 ---
 
 ### 🧠 Agent
 
-Intelligent agent-based workflow system.
+Intelligent agent-based workflow system for automation and smart task handling.
 
-Repository:
+**Repository**
 https://github.com/shyamala1113/Agent
 
 ---
 
 ### ✈️ TravelAgent
 
-Smart travel assistant focused on automation and intelligent travel workflows.
+Travel-focused intelligent assistant for automation and travel workflows.
 
-Repository:
+**Repository**
 https://github.com/shyamala1113/TravelAgent
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* Python
-* Java
-* JavaScript
-* SQL
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=a0c4ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge\&logo=openjdk\&logoColor=a0c4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge\&logo=postgresql\&logoColor=a0c4ff)
 
-**Development**
+### Development
 
-* PyTorch
-* Hugging Face
-* React
-* Spring Boot
-* Git
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge\&logo=huggingface\&logoColor=FFD21E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamala1113\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamala1113\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
 
 ---
 
 ## 🔭 Currently Exploring
 
 * 🤖 LLMs and AI workflows
-* 📚 RAG pipelines and intelligent retrieval
+* 📚 RAG Pipelines
 * 🧠 Agent-based systems
 * 🌐 Full Stack Development
-* ☕ Backend engineering and scalable systems
+* ☕ Backend Engineering
