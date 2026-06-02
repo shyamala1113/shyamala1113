@@ -11,6 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=a0c4ff)](https://github.com/shyamala1113)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=a0c4ff)](https://linkedin.com/in/gaddeepogu-shyamala)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=a0c4ff)](https://shyamala1113.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=a0c4ff)](https://shyamala1113.github.io/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=a0c4ff)](mailto:shyamalagaddeepogu@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge"/>
 
